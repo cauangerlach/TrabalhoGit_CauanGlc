@@ -1,0 +1,7 @@
+
+https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git
+https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/
+https://www.toptal.com/developers/gitignore/
+https://www.markdownguide.org/
+https://www.alura.com.br/artigos/como-trabalhar-com-markdown?_gl=1*crclay*_ga*MTMyNzQ5NDAxLjE3MDEwMzk0NTA.*_ga_1EPWSW3PCS*MTcwOTQ5MjU5OS4xMy4xLjE3MDk0OTY1ODEuMC4wLjA.*_fplc*UlR6Y1IwTnM1Tjk3aXc2NGpUcXgyc2lzQmdmVDV1b3JQTzFydmNHMVhYZHhCQm95WW8lMkJVd2VoYlVVYUdvYmNwc2cwbEglMkYxQXJwTllQWE8xWFZGTWxpJTJGamlRV2FmNXpTbkVjWHJFUlZDVmp5OVc3eWNxdU45SmdIaXNqWTJnJTNEJTNE
+
